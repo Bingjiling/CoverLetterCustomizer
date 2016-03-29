@@ -7,10 +7,10 @@ Ever tired of editing endless documents trying to find a job? Ever said the F* w
 Combine the power of Google Spreadsheet, RTF and R, we are able to finish the application process smoothly without complications.
 
 ### Info managing
-Company information stored in Google Spreadsheet. Easy to retreave, compare and search.
+Company information stored in Google Spreadsheet. Easy to retreave, compare, search and access on different devices.  
 
 ### Multi-tasking
-Auto update status and date in Spreadsheet after sending certain letters. Easy managing of multiple applications. 
+Auto update status and date in Spreadsheet after sending certain letters. Easy managing of multiple applications.  
 
 ### Manual edit
 Manual edit and check point is available between the two lines, where you can make further changes.
