@@ -3,7 +3,7 @@ setwd("~/living/Applications")
 lib = c("googlesheets","dplyr","rtf")
 lapply(lib,library,character.only = TRUE)
 ## Get the spreadsheet
-Info = gs_title("Applications") %>%
-  gs_read_csv()
+sheet = gs_title("Applications")
+Info = gs_read_csv(sheet)
 ## Compose the cover letter
-makeCL("Encore",Info)
+makeCL("Test",Info,sheet)
